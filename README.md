@@ -21,3 +21,9 @@
 
 - tools 工具
 
+
+## 实时编译
+    
+    安装: go get github.com/silenceper/gowatch
+    
+    在项目根目录下 gowatch
