@@ -19,13 +19,11 @@ require (
 	github.com/kataras/golog v0.0.0-20190624001437-99c81de45f40 // indirect
 	github.com/kataras/iris v11.1.1+incompatible
 	github.com/kataras/pio v0.0.0-20190103105442-ea782b38602d // indirect
-	github.com/klauspost/compress v1.8.4 // indirect
 	github.com/klauspost/cpuid v1.2.1 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.2 // indirect
 	github.com/ryanuber/columnize v2.1.0+incompatible // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.4.1
 	github.com/wwcd/grpc-lb v0.0.0-20190626102234-3c50b6a555ae
-
-	google.golang.org/grpc v1.21.1
+	google.golang.org/grpc v1.56.3
 )
